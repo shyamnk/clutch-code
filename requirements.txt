@@ -1,0 +1,7 @@
+logging
+psycogp2
+sqlalchemy
+requests
+flask
+flask_restful
+
